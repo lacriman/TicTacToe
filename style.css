@@ -131,8 +131,9 @@ body {
   background-color: rgb(226, 191, 179, 0.9);
   justify-content: center;
   align-items: center;
+  text-align: center;
   color: black;
-  font-size: 5rem;
+  font-size: 3rem;
   flex-direction: column;
 }
 
